@@ -1,4 +1,4 @@
-# Made by Flank#1337
+#
 
 from requests import Session
 from sys import exit
